@@ -1,0 +1,19 @@
+id: AEF936842
+title: Prayer to Khyentse Wangpo, Kongtrul and Chokgyur Lingpa
+type: translation
+pechas:
+- I16597552
+- IEF06BEE9
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:33:43.227792
+  last_modified_at: 2023-01-04 11:33:43.227799
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+alignment_to_base:
+  I16597552/993D: E0A5
+  IEF06BEE9/88FF: E0A5
